@@ -1,6 +1,7 @@
 
-console.log('Hello!')
+// LEVEL 1.5
 
+/* 
 let carName = 'BMW'
 console.log('carName')
 
@@ -21,4 +22,22 @@ lastName = 'Doe'
 console.log('lastName')
 
 age = 35
-console.log('age')
+console.log('age') */
+
+
+
+// LEVEL 1.6
+
+var z = 34
+z = 67
+console.log(z)
+
+let x = 34
+x = 67
+console.log(x)
+
+/* const y = 34
+y = 67
+console.log(y)  */ //(Uncaught TypeError: Assignment to constant variable.)
+
+
